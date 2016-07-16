@@ -38,7 +38,7 @@ angular.module('linkjob', [angularMeteor, angularUiRouter, angularBootstrap]);
 
 
 function onReady() {
-  angular.bootstrap(document, ['motogat'], {
+  angular.bootstrap(document, ['linkjob'], {
     strictDi: true
   });
 
